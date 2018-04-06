@@ -2,8 +2,7 @@ pragma solidity ^0.4.16;
 
 /*
 * @title A Units & Global Variables Example
-* @author Toshendra Sharma
-* @notice Example for the Solidity Course
+* @author Jean Carlos Nunez
 */
 
 contract Operators {

@@ -11,10 +11,7 @@ import "filename";
 contract ContractName {
     /*
     * @title A Simple Layout Example
-    * @author Toshendra Sharma
-    * @notice Example for the Solidity Course
-    * @dev This line is for developers only
-    * 
+    * @author Jean Carlos Nunez
     */
 
     // This is a single-line comment.

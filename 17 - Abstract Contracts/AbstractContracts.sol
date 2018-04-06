@@ -1,5 +1,9 @@
 pragma solidity ^0.4.8;
 
+/*
+* @author Jean Carlos Nunez
+*/
+
 contract Feline {
     function utterance() public returns (bytes32);
 }

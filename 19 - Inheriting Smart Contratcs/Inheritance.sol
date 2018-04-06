@@ -1,5 +1,9 @@
 pragma solidity ^0.4.8;
 
+/*
+* @author Jean Carlos Nunez
+*/
+
 contract owned {
     function owned() public { owner = msg.sender; }
     address owner;

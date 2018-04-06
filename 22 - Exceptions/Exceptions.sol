@@ -2,10 +2,7 @@ pragma solidity ^0.4.8;
 
     /*
     * @title A Simple Subcurrency Example
-    * @author Toshendra Sharma
-    * @notice Example for the Solidity Course
-    * @dev This is only for demo the simple Coin example
-    * 
+    * @author Jean Carlos Nunez
     */
 
 contract Sharer {

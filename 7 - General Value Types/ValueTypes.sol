@@ -2,10 +2,7 @@ pragma solidity ^0.4.16;
 
 /*
 * @title A Simple Value Type Example
-* @author Toshendra Sharma
-* @notice Example for the Solidity Course
-* @dev This line is for developers only
-* 
+* @author Jean Carlos Nunez
 */
 
 contract generalValueTypesContract {
